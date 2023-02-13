@@ -1,6 +1,7 @@
 package tryagain;
 import java.util.*;
-public class reverseastring {
+public class reverseastring
+{
     public static void main(String args[])
     {
         StringBuilder sb = new StringBuilder("hello");
